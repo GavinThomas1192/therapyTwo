@@ -1,0 +1,16 @@
+.about-heading {
+  @media (min-width: 992px) {
+    .about-heading-img {
+      position: relative;
+      z-index: 0;
+      // margin-left: 15em;
+    }
+    .about-heading-content {
+      margin-top: -5rem;
+      margin-left: 10em;
+      position: relative;
+      z-index: 1;
+    }
+  }
+
+}
